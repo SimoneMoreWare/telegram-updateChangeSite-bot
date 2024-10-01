@@ -57,7 +57,7 @@ The bot sends notifications using the `python-telegram-bot` library.
 1.  Replace `YOUR_BOT_TOKEN` and `YOUR_CHAT_ID` in the script with your bot token and chat ID.
 2.  Run the script using Python:
     
-        python bot.py
+        python main.py
     
 
 # Further Reading
