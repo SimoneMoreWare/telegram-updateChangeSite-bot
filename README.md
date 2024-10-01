@@ -60,19 +60,28 @@ The bot sends notifications using the `python-telegram-bot` library.
         python bot.py
     
 
-Further Reading
+# Further Reading
 ---------------
 
 *   [BeautifulSoup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 *   [Requests Documentation](https://docs.python-requests.org/en/master/)
 *   [Python Asyncio Documentation](https://docs.python.org/3/library/asyncio.html)
 
-Contributing
+# Issue: Unable to Import `requests` in Visual Studio Code
+
+## Description
+I'm encountering an issue while trying to import the `requests` library in my Python project using Visual Studio Code. After installing the library via pip, I'm still unable to import it, and I receive an error message saying that `requests` cannot be found.
+
+## Additional Resources
+For more information on troubleshooting this issue, you can refer to the following link:
+- [Why can't I import requests in VS Code?](https://stackoverflow.com/questions/68832892/why-cant-i-import-requests-in-vs-code)
+
+# Contributing
 ------------
 
 Feel free to submit issues or pull requests.
 
-License
+# License
 -------
 
 This project is licensed under the MIT License.
